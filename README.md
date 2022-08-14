@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LEMOGAMES
-- 📬 Contact me - lemosupprot@gmail.com
+- 📬 Contact me - lemogamessup@gmail.com
 
 <!---
 LEMOGAMES/LEMOGAMES is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
